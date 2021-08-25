@@ -4,6 +4,11 @@
 
 Corresponde a un ejercicio tipo de Network Optimization, con ejercicios de transporte y transbordo que involucran variables binarias para la elección de fabricas y centros de distribución.
 
+# Video You Tube
+
+* **Transporte:** [Video Tutorial](https://youtu.be/a9qQMnlUZ8E)
+* **Transbordo:** [Video Tutorial](https://youtu.be/0APFjst2PWs)
+
 # Enunciado
 
 Verano-Feliz ha tenido un gran éxito con su modelo de negocio en la industria de los trajes de baños, por lo cual está expandiendo sus operaciones a un nuevo mercado, La Unión Europea. Con el fin de poder implementa su estrategia de manera exitosa, actualmente está diseñando su cadena de suministros para el mercado de Europa.
